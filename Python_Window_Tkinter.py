@@ -1,3 +1,4 @@
+#open python window
 from tkinter import *
 
 app = Tk()
